@@ -1,2 +1,5 @@
 # Submission
-Repository mengenai dasar Pembuatan Web dengan HTML dan CSS 
+Belajar Dasar Pembuatan Web dengan HTML dan CSS 
+
+Nama: Putri Wulandari
+ID: M495Y1038
